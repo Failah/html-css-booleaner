@@ -35,3 +35,12 @@ body {
 ul {
     padding-left: 20px;
 }
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.colored_table_row {
+    background-color: #b1e5f2;
+}
