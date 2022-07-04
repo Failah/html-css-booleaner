@@ -1,0 +1,13 @@
+.logo {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: #4da0ff;
+}
+
+.booleaner_color {
+    color: #1faae5;
+}
+
+.head_text_color {
+    color: grey;
+}
